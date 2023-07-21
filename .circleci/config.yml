@@ -13,7 +13,7 @@ commands:
       - run: 
           name: Running all unit tests 
           command: |
-              docker run #ricardmodi/memek:latest
+              docker run ricardmodi/memek:latest
 
   babu:
     steps:
